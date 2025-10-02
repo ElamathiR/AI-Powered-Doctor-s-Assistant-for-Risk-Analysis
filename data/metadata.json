@@ -1,0 +1,62 @@
+[
+  {
+    "id": "lit-001",
+    "title": "Hypertension increases heart failure risk",
+    "source": "Journal A 2020",
+    "text": "In a cohort of older adults, uncontrolled hypertension was associated with a significant increase in heart failure within 1 year. Adjusted hazard ratios increased with systolic blood pressure >150 mmHg."
+  },
+  {
+    "id": "lit-002",
+    "title": "Diabetes and cardiovascular outcomes",
+    "source": "Journal B 2019",
+    "text": "Type 2 diabetes is associated with higher risk of hospitalization for heart conditions; glycemic control matters. Diabetic patients with comorbid hypertension showed worse outcomes."
+  },
+  {
+    "id": "lit-003",
+    "title": "Shortness of breath predictive of hospitalization",
+    "source": "Journal C 2018",
+    "text": "Shortness of breath (dyspnea) in older adults often predicts near-term hospitalization; dyspnea with abnormal creatinine correlated with worse outcomes."
+  },
+  {
+    "id": "lit-004",
+    "title": "Impact of obesity on heart failure",
+    "source": "Journal D 2021",
+    "text": "Obesity significantly increases the risk of heart failure in older adults. The study found that a BMI >30 kg/m² was associated with a 40% higher risk of heart failure."
+  },
+  {
+    "id": "lit-005",
+    "title": "Smoking cessation and cardiovascular health",
+    "source": "Journal E 2022",
+    "text": "Quitting smoking reduces the risk of cardiovascular diseases, including heart failure. The benefits were most pronounced in those who quit before age 50."
+  },
+  {
+    "id": "lit-006",
+    "title": "Physical activity and heart health",
+    "source": "Journal F 2023",
+    "text": "Regular physical activity is linked to lower rates of heart failure. Older adults engaging in moderate exercise at least three times a week had a 30% reduced risk."
+  },
+  {
+    "id": "lit-007",
+    "title": "Sleep apnea and cardiovascular risk",
+    "source": "Journal G 2020",
+    "text": "Obstructive sleep apnea is a significant risk factor for heart failure. Patients with untreated sleep apnea had a 50% higher risk of developing heart failure."
+  },
+  {
+    "id": "lit-008",
+    "title": "Inflammation markers in heart disease",
+    "source": "Journal H 2019",
+    "text": "Elevated levels of inflammatory markers like CRP are associated with increased risk of heart failure. The study highlighted the importance of monitoring inflammation in at-risk populations."
+  },
+  {
+    "id": "lit-009",
+    "title": "Genetic factors in heart failure",
+    "source": "Journal I 2021",
+    "text": "Certain genetic variants have been linked to an increased risk of heart failure. The research suggests that genetic screening could help identify individuals at higher risk."
+  },
+  {
+    "id": "lit-010",
+    "title": "Dietary patterns and heart health",
+    "source": "Journal J 2022",
+    "text": "A Mediterranean diet rich in fruits, vegetables, and whole grains is associated with lower rates of heart failure. The study emphasized dietary interventions as a preventive measure."
+  }
+]
